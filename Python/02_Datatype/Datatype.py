@@ -11,7 +11,5 @@ print(d)
 print(e)
 print(f)
 d[2] = 22
-e[1] = 22
 print(d)
-print(e)
 
